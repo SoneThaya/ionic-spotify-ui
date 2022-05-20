@@ -1,0 +1,7 @@
+{
+  "name": "ionic-spotify-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
